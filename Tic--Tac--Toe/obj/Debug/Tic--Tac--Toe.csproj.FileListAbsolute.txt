@@ -1,0 +1,11 @@
+C:\Users\dhruv\source\repos\Tic--Tac--Toe\Tic--Tac--Toe\bin\Debug\Tic--Tac--Toe.exe.config
+C:\Users\dhruv\source\repos\Tic--Tac--Toe\Tic--Tac--Toe\bin\Debug\Tic--Tac--Toe.exe
+C:\Users\dhruv\source\repos\Tic--Tac--Toe\Tic--Tac--Toe\bin\Debug\Tic--Tac--Toe.pdb
+C:\Users\dhruv\source\repos\Tic--Tac--Toe\Tic--Tac--Toe\obj\Debug\Tic--Tac--Toe.csproj.AssemblyReference.cache
+C:\Users\dhruv\source\repos\Tic--Tac--Toe\Tic--Tac--Toe\obj\Debug\Tic--Tac--Toe.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhruv\source\repos\Tic--Tac--Toe\Tic--Tac--Toe\obj\Debug\TicTacToe.TicTacToeForm.resources
+C:\Users\dhruv\source\repos\Tic--Tac--Toe\Tic--Tac--Toe\obj\Debug\Tic__Tac__Toe.Properties.Resources.resources
+C:\Users\dhruv\source\repos\Tic--Tac--Toe\Tic--Tac--Toe\obj\Debug\Tic--Tac--Toe.csproj.GenerateResource.cache
+C:\Users\dhruv\source\repos\Tic--Tac--Toe\Tic--Tac--Toe\obj\Debug\Tic--Tac--Toe.csproj.CoreCompileInputs.cache
+C:\Users\dhruv\source\repos\Tic--Tac--Toe\Tic--Tac--Toe\obj\Debug\Tic--Tac--Toe.exe
+C:\Users\dhruv\source\repos\Tic--Tac--Toe\Tic--Tac--Toe\obj\Debug\Tic--Tac--Toe.pdb
